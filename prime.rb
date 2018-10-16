@@ -21,5 +21,5 @@ def prime?(n)
       w = 6 - w
     end
   end
-  return true
+  true
 end
